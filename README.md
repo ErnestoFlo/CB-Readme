@@ -4,7 +4,7 @@ _Párrafo para la descripción de secciones o del proyecto en general (Se hace c
 
 ## Este es un subtítulo ( ## )
 
-_Esta es la descripción del subtitulo, esta propiedad nos permite extendernos de la manera mas prolongada o breve de lo que queremos explicar, y no tiene un limite. Esta sección nos sirve para especificar _
+_Esta es la descripción del subtitulo, esta propiedad nos permite extendernos de la manera mas prolongada o breve de lo que queremos explicar, y no tiene un limite. Esta sección nos sirve para especificar los detalles del proyecto y darle realce a los mismos._
 
 Para marcar con **Negrita** debemos usar los asteriscos (** **)
 
@@ -17,6 +17,14 @@ Ejemplo:
 git init
 ```
 
+### Agregar imagenes
+
+Se pueden agregar imagenes de la misma manera y propiedades como las que utilizamos en `HTML`. Ejemplo:
+
+<p align="center" width="100%"><img src="https://raw.githubusercontent.com/ErnestoFlo/CB-SistemaDisk_VB.Net/refs/heads/master/Documentacion/Menu%20pricipal.png" /></p>
+
+Nota: Con acento grabe (**`**) podemos darle un resalte diferente a las palabras de un párrafo
+
 ### Tercer subtitulo ( ### )
 
 _Para esta sección, se suelde dar a los detalles técnicos y códigos para procedimientos y iniciación del proyecto. Este proceso se llama **Instalación**_
@@ -26,6 +34,20 @@ Ejemplo
 pip install python
 python -m pip install Django
 ```
+
+### Tablas de contenido
+
+Podemos agregar tablas de contenido como la siguiente:
+
+<details>
+<summary><b>Expandir</b></summary>
+
+1. [Lista:](#lista)
+    1. [1.1 Objeto 1](#obj1)
+    1. [1.2 Objeto 2](#obj2)
+    1. [1.2 Objeto 3](#obj2)
+    1. [1.2 Objeto 4](#obj2)
+</details>
 
 ## Otras secciones para el README
 
