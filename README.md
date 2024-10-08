@@ -1,7 +1,6 @@
 # Título principal del proyecto ( # )
 
 <a id="Titulo"></a>
-# Titulo:
 
 _Párrafo para la descripción de secciones o del proyecto en general (Se hace con guión bajo al inicio y fin). Este apartado nos sirve para dar una descripción general del proyecto_
 
@@ -108,7 +107,6 @@ Este proyecto está bajo la licencia (Mi licencia) - Mira el archivo [LICENSE.md
 ## Expresiones de Gratitud 
 
 <a id="thanks"></a>
-# thanks:
 
 * Comentarios sobre este proyecto 
 * Menciones y agradecimeintos a miembros del equipo. 
