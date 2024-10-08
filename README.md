@@ -1,5 +1,8 @@
 # Título principal del proyecto ( # )
 
+<a id="Titulo"></a>
+# Titulo:
+
 _Párrafo para la descripción de secciones o del proyecto en general (Se hace con guión bajo al inicio y fin). Este apartado nos sirve para dar una descripción general del proyecto_
 
 ## Este es un subtítulo ( ## )
@@ -42,11 +45,12 @@ Podemos agregar tablas de contenido como la siguiente:
 <details>
 <summary><b>Expandir</b></summary>
 
-1. [Lista:](#lista)
+1. [Titulo:](#Titulo)
     1. [1.1 Objeto 1](#obj1)
     1. [1.2 Objeto 2](#obj2)
     1. [1.2 Objeto 3](#obj2)
     1. [1.2 Objeto 4](#obj2)
+2. [Agradecimientos](#thanks)
 </details>
 
 ## Otras secciones para el README
@@ -102,6 +106,9 @@ _Aqui se mencionan a todas las personas que ayudaron y contribuyeron en el desar
 Este proyecto está bajo la licencia (Mi licencia) - Mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 
+
+<a id="thanks"></a>
+# thanks:
 
 * Comentarios sobre este proyecto 
 * Menciones y agradecimeintos a miembros del equipo. 
