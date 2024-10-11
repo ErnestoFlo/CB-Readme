@@ -112,3 +112,5 @@ Este proyecto está bajo la licencia (Mi licencia) - Mira el archivo [LICENSE.md
 * Menciones y agradecimeintos a miembros del equipo. 
 * Dar las gracias públicamente.
 * etc.
+
+_Para más información, visita acá 😈: [Doc Github](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)_
